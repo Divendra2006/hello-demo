@@ -1,3 +1,3 @@
 # hello-demo
 this is a demo repository
-Author- zDivendra singh yadav
+Author- Divendra singh yadav
