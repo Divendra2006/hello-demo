@@ -1,4 +1,4 @@
 # hello-demo
 this is a demo repository
 <br>
-Author- Divendra yadav
+Author- Divendra yadav (student)
